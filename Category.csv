@@ -1,11 +1,12 @@
-﻿category_id,category_name,,,
-CAT-EN-001,Engine System,,,
-CAT-BR-002,Braking System,,,
-CAT-SU-003,Suspension & Steering,,,
-CAT-EL-004,Electrical & Sensors,,,
-CAT-CO-005,Cooling System,,,
-CAT-FL-006,Fluids & Lubricants,,,
-CAT-FI-007,Filters,,,
-CAT-BO-008,Body Parts,,,
-CAT-TR-009,Transmission System,,,
-CAT-EX-010,Exhaust System,,,
+﻿category_id,category_name
+CAT-EN-001,Engine System
+CAT-BR-002,Braking System
+CAT-SU-003,Suspension & Steering
+CAT-EL-004,Electrical & Sensors
+CAT-CO-005,Cooling System
+CAT-FL-006,Fluids & Lubricants
+CAT-FI-007,Filters
+CAT-BO-008,Body Parts
+CAT-TR-009,Transmission System
+
+CAT-EX-010,Exhaust System
