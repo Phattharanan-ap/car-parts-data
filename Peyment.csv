@@ -1,0 +1,21 @@
+﻿peyment_id,order_id,peyment_status,peyment_date,peyment_method
+PAY-001,ORD-001,Success,1/2/24,Credit Card
+PAY-002,ORD-002,Success,1/2/24,Cash
+PAY-003,ORD-003,Success,2/2/24,Bank Transfer
+PAY-004,ORD-004,Success,2/2/24,Cash
+PAY-005,ORD-005,Pending,3/2/24,Bank Transfer
+PAY-006,ORD-006,Success,3/2/24,QR Payment
+PAY-007,ORD-007,Success,4/2/24,Credit Card
+PAY-008,ORD-008,Success,4/2/24,Credit Card
+PAY-009,ORD-009,Success,5/2/24,Cash
+PAY-010,ORD-010,Success,5/2/24,QR Payment
+PAY-011,ORD-011,Success,6/2/24,Cash
+PAY-012,ORD-012,Cancelled,6/2/24,Credit Card
+PAY-013,ORD-013,Success,7/2/24,Bank Transfer
+PAY-014,ORD-014,Success,7/2/24,Cash
+PAY-015,ORD-015,Success,8/2/24,QR Payment
+PAY-016,ORD-016,Success,8/2/24,Bank Transfer
+PAY-017,ORD-017,Success,9/2/24,Credit Card
+PAY-018,ORD-018,Success,9/2/24,QR Payment
+PAY-019,ORD-019,Success,10/2/24,Bank Transfer
+PAY-020,ORD-020,Success,10/2/24,Cash

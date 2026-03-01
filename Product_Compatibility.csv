@@ -1,0 +1,13 @@
+﻿product_id,car_model_id,remark
+PRD-FI-001,MOD-TO-001,กรองน้ำมันเครื่อง (Altis)
+PRD-FI-001,MOD-TO-003,กรองน้ำมันเครื่อง (Vios - ใช้ตัวเดียวกับ Altis)
+PRD-BR-001,MOD-HO-001,ผ้าเบรกหน้า (Civic)
+PRD-BR-001,MOD-HO-002,ผ้าเบรกหน้า (City - ใช้ตัวเดียวกับ Civic)
+PRD-FI-002,MOD-IS-001,กรองอากาศ (D-Max 2012)
+PRD-FI-002,MOD-IS-002,กรองอากาศ (MU-X - ใช้เครื่องเดียวกัน)
+PRD-EN-001,MOD-TO-001,หัวเทียน (Altis)
+PRD-EN-001,MOD-TO-003,หัวเทียน (Vios - ใช้ร่วมกันได้)
+PRD-SU-001,MOD-MI-001,โช้คอัพหน้า (Triton)
+PRD-SU-001,MOD-MI-002,โช้คอัพหน้า (Pajero Sport - พื้นฐานเดียวกัน)
+PRD-FL-001,MOD-BM-001,น้ำมันเครื่อง (BMW Series 3)
+PRD-FL-001,MOD-BM-002,น้ำมันเครื่อง (BMW Series 5 - สเปกเดียวกัน)

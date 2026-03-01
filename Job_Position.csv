@@ -1,0 +1,5 @@
+﻿position_id,position_name
+POS-MGR,ผู้จัดการสาขา (Branch Manager)
+POS-STF,พนักงานขาย/บริการ (Service Staff)
+POS-ACC,พนักงานบัญชี (Accountant)
+POS-WHS,พนักงานคลังสินค้า (Warehouse Staff)
